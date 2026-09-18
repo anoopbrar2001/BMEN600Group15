@@ -19,3 +19,5 @@ Can gait analysis be used for rehabilitation for adult patients with traumatic b
 https://zenodo.org/records/15729056
 ## Biggest Uncertainty:
 Our biggest uncertainty is the need for multiple datasets to do a proper comparison of impaired & non-impaired patients.
+## Current decision:
+We are currently leaning towards Project 1, due to the availability of data related to seizure prediction, symptoms, and the variety of tracking methods (EEG, ECG, etc.)
