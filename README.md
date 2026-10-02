@@ -6,7 +6,7 @@ Anoop Brar, Ella Watson, Noah Willfong, Aashir Ali
 ## Biomedical Problem
 Wearable Sensors for Seizure Detection
 ## Possible Research Question:
-Is there a way to develop a wearable sensor that utilizes EEG & ECG data for early seizure prediction in epileptic patients?
+Is there a way to develop a wearable sensor that utilizes EEG & ECG data for early seizure prediction in pediatric epileptic patients?
 ## Data set
 https://openneuro.org/datasets/ds005873/versions/1.1.0
 ## Biggest Uncertainty:
