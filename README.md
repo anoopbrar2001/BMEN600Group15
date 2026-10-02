@@ -21,5 +21,7 @@ https://zenodo.org/records/15729056
 Our biggest uncertainty is the need for multiple datasets to do a proper comparison of impaired & non-impaired patients.
 ## Current decision:
 We are currently leaning towards Project 1, due to the availability of data related to seizure prediction, symptoms, and the variety of tracking methods (EEG, ECG, etc.)
-## Current project plan:
-https://uofc-my.sharepoint.com/:w:/g/personal/aashir_ali_ucalgary_ca/IQAU0naRM36KQrtEyUbv8KWZAUCAwDQ61PZRPjdSIfrW8OE?e=CJaP53
+## Project Decision
+REVISE - The overall project works, but we need to narrow down our target population, what specific physiological data makes the most sense for us to measure, and the research gap our project fils.
+## Team plan
+
