@@ -22,6 +22,6 @@ Our biggest uncertainty is the need for multiple datasets to do a proper compari
 ## Current decision:
 We are currently leaning towards Project 1, due to the availability of data related to seizure prediction, symptoms, and the variety of tracking methods (EEG, ECG, etc.)
 ## Project Decision
-REVISE - The overall project works, but we need to narrow down our target population, what specific physiological data makes the most sense for us to measure, and the research gap our project fils.
+REVISE - The overall project works, but we need to assess the feasibility of our target population, what specific physiological data makes the most sense for us to measure, and the research gap our project fills.
 ## Team plan
 
