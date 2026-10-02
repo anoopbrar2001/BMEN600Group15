@@ -22,3 +22,4 @@ Our biggest uncertainty is the need for multiple datasets to do a proper compari
 ## Current decision:
 We are currently leaning towards Project 1, due to the availability of data related to seizure prediction, symptoms, and the variety of tracking methods (EEG, ECG, etc.)
 ## Current project plan:
+https://uofc-my.sharepoint.com/:w:/g/personal/aashir_ali_ucalgary_ca/IQAU0naRM36KQrtEyUbv8KWZAUCAwDQ61PZRPjdSIfrW8OE?e=CJaP53
