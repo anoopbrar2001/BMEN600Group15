@@ -28,8 +28,6 @@ REVISE - The overall project works, but we need to assess the feasibility of our
 <img width="970" height="745" alt="image" src="https://github.com/user-attachments/assets/bb5f1824-e98f-4dfe-9162-229e7e270d3f" />
 
 ## Participant metadata table:
-## Dataset Summary
-
 The participant-level metadata and recording summary are available below:
 
 - [View participant metadata and recording summary](data/participant_metadata_and_recording_counts.csv)
