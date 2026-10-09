@@ -32,6 +32,6 @@ REVISE - The overall project works, but we need to assess the feasibility of our
 
 The participant-level metadata and recording summary are available below:
 
-- [View participant metadata and recording summary](data/participant_metadata_recording_and_seizure_summary.csv)
+- [View participant metadata and recording summary](data/participant_metadata_and_recording_counts.csv)
 
 
