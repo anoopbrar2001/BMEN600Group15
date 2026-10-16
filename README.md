@@ -32,7 +32,7 @@ How accurately can non-convulsive focal seizures be detected from accelerometer,
 ## Participant metadata table:
 The participant-level metadata and recording summary are available below:
 
-- [View participant metadata and recording summary](data/participant_metadata_and_recording_counts.csv)
+- [View participant metadata and recording summary](data/02_participant_metadata_full_cleaned_for_audit.csv)
 
 ## Dataset source and access
 The project uses the SeizeIT2 dataset, available through OpenNeuro, ds005873, version 1.1.0. The dataset contains physiological recordings, including movement and EMG data, that will be investigated for non-convulsive focal seizure detection. The dataset can be found at: https://openneuro.org/datasets/ds005873/versions/1.1.0
