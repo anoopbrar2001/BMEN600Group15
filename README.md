@@ -42,11 +42,11 @@ The raw dataset is accessed from the original source and is not duplicated in th
 We have developed a preliminary metadata analysis to summarize participant characteristics, identify available signal files, and compare dataset counts with figures used in our project report. The current outputs provide an initial assessment of data availability but do not establish seizure-detection accuracy. Event annotation validation, confirmation of sensor channels, and model evaluation remain outstanding.
 
 ## Repository Contents
-README.md: Project background, research question, dataset source, and instructions.
-SeizeIT2_Midterm_Notebook.ipynb: Jupyter notebook for preliminary metadata analysis and data-quality checks.
-data/participant_metadata_and_recording_counts.csv: Participant-level metadata and recording summary.
-data/ Generated metadata summaries, cleaned tables, file inventories, and consistency checks.
-requirements.txt: Python packages required to run the notebook.
+1) README.md: Project background, research question, dataset source, and instructions.
+2) SeizeIT2_Midterm_Notebook.ipynb: Jupyter notebook for preliminary metadata analysis and data-quality checks.
+3) data/participant_metadata_and_recording_counts.csv: Participant-level metadata and recording summary.
+4) data/ Generated metadata summaries, cleaned tables, file inventories, and consistency checks.
+5) requirements.txt: Python packages required to run the notebook.
 
 ## Software & Setup
 The preliminary analysis uses Python in Jupyter Notebook. The main packages include pandas and NumPy, alongside Python's standard libraries for retrieving dataset metadata.
