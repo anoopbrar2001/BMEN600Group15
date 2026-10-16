@@ -46,7 +46,7 @@ We have developed a preliminary metadata analysis to summarize participant chara
 
 SeizeIT2_Simple_Midterm_Notebook.ipynb: Jupyter Notebook containing the preliminary metadata analysis, file inventory, and dataset consistency checks.
 
-## Raw and Initial Data
+## Raw and Initial Data (/data/output)
 
 01_participants_uncleaned.tsv: Original participant metadata retrieved for the analysis.
 
@@ -56,7 +56,7 @@ SeizeIT2_Simple_Midterm_Notebook.ipynb: Jupyter Notebook containing the prelimin
 
 01_event_download_errors.csv: Log of errors encountered during event annotation retrieval.
 
-## Cleaned Data and Analysis Tables
+## Cleaned Data and Analysis Tables (/data/output)
 
 02_participants_cleaned.tsv: Cleaned participant metadata.
 
@@ -68,7 +68,7 @@ SeizeIT2_Simple_Midterm_Notebook.ipynb: Jupyter Notebook containing the prelimin
 
 02_participant_metadata_full_cleaned_for_audit.csv: Detailed cleaned participant metadata retained for auditing.
 
-## Summary and Validation Outputs
+## Summary and Validation Outputs (/data/output)
 
 03_report_consistency_check.csv: Compares calculated dataset counts with figures used in the project report.
 
