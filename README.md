@@ -42,11 +42,37 @@ The raw dataset is accessed from the original source and is not duplicated in th
 We have developed a preliminary metadata analysis to summarize participant characteristics, identify available signal files, and compare dataset counts with figures used in our project report. The current outputs provide an initial assessment of data availability but do not establish seizure-detection accuracy. Event annotation validation, confirmation of sensor channels, and model evaluation remain outstanding.
 
 ## Repository Contents
-1) README.md: Project background, research question, dataset source, and instructions.
-2) SeizeIT2_Midterm_Notebook.ipynb: Jupyter notebook for preliminary metadata analysis and data-quality checks.
-3) data/participant_metadata_and_recording_counts.csv: Participant-level metadata and recording summary.
-4) data/ Generated metadata summaries, cleaned tables, file inventories, and consistency checks.
-5) requirements.txt: Python packages required to run the notebook.
+## Notebook
+
+SeizeIT2_Simple_Midterm_Notebook.ipynb: Jupyter Notebook containing the preliminary metadata analysis, file inventory, and dataset consistency checks.
+
+## Raw and Initial Data
+
+01_participants_uncleaned.tsv: Original participant metadata retrieved for the analysis.
+
+01_file_inventory_uncleaned.csv: Initial inventory of files identified in the dataset.
+
+01_event_annotations_uncleaned.csv: Initial event annotation output.
+
+01_event_download_errors.csv: Log of errors encountered during event annotation retrieval.
+
+## Cleaned Data and Analysis Tables
+
+02_participants_cleaned.tsv: Cleaned participant metadata.
+
+02_file_inventory_cleaned.csv: Cleaned dataset file inventory.
+
+02_event_annotations_cleaned.csv: Processed event annotation output.
+
+02_participant_analysis_table_cleaned.csv: Participant-level analysis table containing participant information and sensor availability indicators.
+
+02_participant_metadata_full_cleaned_for_audit.csv: Detailed cleaned participant metadata retained for auditing.
+
+## Summary and Validation Outputs
+
+03_report_consistency_check.csv: Compares calculated dataset counts with figures used in the project report.
+
+04_preliminary_dataset_summary.csv: Summarizes preliminary dataset statistics, including participant counts and sensor file availability.
 
 ## Software & Setup
 The preliminary analysis uses Python in Jupyter Notebook. The main packages include pandas and NumPy, alongside Python's standard libraries for retrieving dataset metadata.
