@@ -6,7 +6,7 @@ Anoop Brar, Ella Watson, Noah Willfong, Aashir Ali
 ## Biomedical Problem
 Wearable Sensors for Seizure Detection
 ## Possible Research Question:
-Is there a way to develop a wearable sensor that utilizes EEG & ECG data for early seizure prediction in pediatric epileptic patients?
+Is there a way to develop a wearable sensor that utilizes non EEG & ECG data for early seizure prediction in pediatric epileptic patients?
 ## Data set
 https://openneuro.org/datasets/ds005873/versions/1.1.0
 ## Biggest Uncertainty:
@@ -23,6 +23,8 @@ Our biggest uncertainty is the need for multiple datasets to do a proper compari
 We are currently leaning towards Project 1, due to the availability of data related to seizure prediction, symptoms, and the variety of tracking methods (EEG, ECG, etc.)
 ## Project Decision
 REVISE - The overall project works, but we need to assess the feasibility of our target population, what specific physiological data makes the most sense for us to measure, and the research gap our project fills.
+## REVISED RESEARCH QUESTION
+How accurately can non-convulsive focal seizures be detected from accelerometer, gyroscope and EMG technology? 
 ## Team plan
 
 <img width="970" height="745" alt="image" src="https://github.com/user-attachments/assets/bb5f1824-e98f-4dfe-9162-229e7e270d3f" />
