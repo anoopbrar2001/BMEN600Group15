@@ -45,7 +45,7 @@ We have developed a preliminary metadata analysis to summarize participant chara
 README.md: Project background, research question, dataset source, and instructions.
 SeizeIT2_Midterm_Notebook.ipynb: Jupyter notebook for preliminary metadata analysis and data-quality checks.
 data/participant_metadata_and_recording_counts.csv: Participant-level metadata and recording summary.
-outputs/: Generated metadata summaries, cleaned tables, file inventories, and consistency checks.
+data/ Generated metadata summaries, cleaned tables, file inventories, and consistency checks.
 requirements.txt: Python packages required to run the notebook.
 
 ## Software & Setup
