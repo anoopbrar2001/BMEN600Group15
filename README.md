@@ -34,4 +34,33 @@ The participant-level metadata and recording summary are available below:
 
 - [View participant metadata and recording summary](data/participant_metadata_and_recording_counts.csv)
 
+## Dataset source and access
+The project uses the SeizeIT2 dataset, available through OpenNeuro, ds005873, version 1.1.0. The dataset contains physiological recordings, including movement and EMG data, that will be investigated for non-convulsive focal seizure detection. The dataset can be found at: https://openneuro.org/datasets/ds005873/versions/1.1.0
+The raw dataset is accessed from the original source and is not duplicated in this repository. The repository contains our analysis code and derived metadata outputs. Dataset access and use should follow the terms specified by the original source.
 
+## Current Progress
+We have developed a preliminary metadata analysis to summarize participant characteristics, identify available signal files, and compare dataset counts with figures used in our project report. The current outputs provide an initial assessment of data availability but do not establish seizure-detection accuracy. Event annotation validation, confirmation of sensor channels, and model evaluation remain outstanding.
+
+## Repository Contents
+README.md: Project background, research question, dataset source, and instructions.
+SeizeIT2_Midterm_Notebook.ipynb: Jupyter notebook for preliminary metadata analysis and data-quality checks.
+data/participant_metadata_and_recording_counts.csv: Participant-level metadata and recording summary.
+outputs/: Generated metadata summaries, cleaned tables, file inventories, and consistency checks.
+requirements.txt: Python packages required to run the notebook.
+
+## Software & Setup
+The preliminary analysis uses Python in Jupyter Notebook. The main packages include pandas and NumPy, alongside Python's standard libraries for retrieving dataset metadata.
+Install the required packages using:
+pip install pandas numpy ipython jupyter
+
+## How to Run the Preliminary Analysis
+1. Clone or download this repository.
+2. Install the required Python packages.
+3. Open Jupyter Notebook in the project directory.
+4. Open SeizeIT2_Simple_Midterm_Notebook.ipynb.
+5. Run the notebook cells in order.
+6. Review the generated CSV files in the output directory.
+An internet connection is required to retrieve metadata from the configured dataset sources.
+
+## Limitations
+The current analysis summarizes file availability rather than usable seizure events. The number of eligible non-convulsive focal seizures has not yet been established, and the required accelerometer, gyroscope, and EMG channels must be verified. Dataset version consistency must also be checked before the final analysis.
