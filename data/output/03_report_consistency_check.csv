@@ -1,8 +1,0 @@
-metric,report_value,computed_from_current_inventory,match
-participants,125,125,True
-recordings,2850,11009,False
-participants_with_movement,117,117,True
-participants_with_ecg,124,124,True
-participants_with_emg,124,124,True
-male_participants,63,63,True
-female_participants,62,62,True

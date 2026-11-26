@@ -1,7 +1,0 @@
-Measure,Result,Interpretation
-Participants represented in participant metadata,125,Participant-level count from the retrieved metadata.
-Indexed signal EDF files,11009,File-index count; may differ from the study's definition of a recording.
-Participants with movement EDF files,117,Preliminary proxy for ACC/GYR availability; channel names require verification.
-Participants with EMG EDF files,124,File presence does not confirm usable signal quality.
-Participants with both movement and EMG EDF files,116,"Potential cohort before applying seizure, channel, and quality eligibility criteria."
-Usable annotated non-convulsive focal seizures with required signals,Not yet established,"Requires validation of event labels, timestamps, required channels, and usable recording duration."
