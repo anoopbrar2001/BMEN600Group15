@@ -1,0 +1,46 @@
+fa_target,model,kind,n_seizures,sensitivity
+1,random,focal motor,354,0.0
+1,random,focal non-motor,283,0.0035335689045936395
+1,random,"focal, motor signs unknown",93,0.0
+1,threshold,focal motor,354,0.01694915254237288
+1,threshold,focal non-motor,283,0.0
+1,threshold,"focal, motor signs unknown",93,0.0
+1,xgb ACC,focal motor,354,0.00847457627118644
+1,xgb ACC,focal non-motor,283,0.007067137809187279
+1,xgb ACC,"focal, motor signs unknown",93,0.0
+1,xgb ACC+GYR,focal motor,354,0.0423728813559322
+1,xgb ACC+GYR,focal non-motor,283,0.01060070671378092
+1,xgb ACC+GYR,"focal, motor signs unknown",93,0.010752688172043012
+1,xgb ACC+GYR+EMG,focal motor,354,0.025423728813559324
+1,xgb ACC+GYR+EMG,focal non-motor,283,0.014134275618374558
+1,xgb ACC+GYR+EMG,"focal, motor signs unknown",93,0.010752688172043012
+5,random,focal motor,354,0.0
+5,random,focal non-motor,283,0.007067137809187279
+5,random,"focal, motor signs unknown",93,0.0
+5,threshold,focal motor,354,0.025423728813559324
+5,threshold,focal non-motor,283,0.0035335689045936395
+5,threshold,"focal, motor signs unknown",93,0.010752688172043012
+5,xgb ACC,focal motor,354,0.07627118644067797
+5,xgb ACC,focal non-motor,283,0.02120141342756184
+5,xgb ACC,"focal, motor signs unknown",93,0.0967741935483871
+5,xgb ACC+GYR,focal motor,354,0.10451977401129943
+5,xgb ACC+GYR,focal non-motor,283,0.03180212014134275
+5,xgb ACC+GYR,"focal, motor signs unknown",93,0.0967741935483871
+5,xgb ACC+GYR+EMG,focal motor,354,0.10451977401129943
+5,xgb ACC+GYR+EMG,focal non-motor,283,0.024734982332155476
+5,xgb ACC+GYR+EMG,"focal, motor signs unknown",93,0.0967741935483871
+10,random,focal motor,354,0.011299435028248588
+10,random,focal non-motor,283,0.014134275618374558
+10,random,"focal, motor signs unknown",93,0.0
+10,threshold,focal motor,354,0.025423728813559324
+10,threshold,focal non-motor,283,0.0035335689045936395
+10,threshold,"focal, motor signs unknown",93,0.010752688172043012
+10,xgb ACC,focal motor,354,0.17231638418079095
+10,xgb ACC,focal non-motor,283,0.0636042402826855
+10,xgb ACC,"focal, motor signs unknown",93,0.23655913978494625
+10,xgb ACC+GYR,focal motor,354,0.19491525423728814
+10,xgb ACC+GYR,focal non-motor,283,0.09187279151943463
+10,xgb ACC+GYR,"focal, motor signs unknown",93,0.24731182795698925
+10,xgb ACC+GYR+EMG,focal motor,354,0.2062146892655367
+10,xgb ACC+GYR+EMG,focal non-motor,283,0.06713780918727916
+10,xgb ACC+GYR+EMG,"focal, motor signs unknown",93,0.23655913978494625
